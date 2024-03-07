@@ -18,9 +18,7 @@ class KdeProfile(XorgProfile):
 			"konsole",
 			"kwrite",
 			"dolphin",
-			"ark",
-			"plasma-wayland-session",
-			"egl-wayland"
+			"ark"
 		]
 
 	@property
